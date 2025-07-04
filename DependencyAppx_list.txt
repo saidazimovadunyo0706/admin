@@ -1,0 +1,3 @@
+C:\Users\User\Desktop\AUDIOC~1.0_W\AUDIOC~1.0_W\FMAPOControl5_1.0.12.0_x64_bundle.msixupload_Windows10_PreinstallKit_3\Microsoft.NET.Native.Framework.2.0_2.0.27427.0_x64__8wekyb3d8bbwe.appx
+C:\Users\User\Desktop\AUDIOC~1.0_W\AUDIOC~1.0_W\FMAPOControl5_1.0.12.0_x64_bundle.msixupload_Windows10_PreinstallKit_3\Microsoft.NET.Native.Runtime.2.0_2.0.25709.0_x64__8wekyb3d8bbwe.appx
+C:\Users\User\Desktop\AUDIOC~1.0_W\AUDIOC~1.0_W\FMAPOControl5_1.0.12.0_x64_bundle.msixupload_Windows10_PreinstallKit_3\Microsoft.VCLibs.140.00_14.0.32530.0_x64__8wekyb3d8bbwe.appx
